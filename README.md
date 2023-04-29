@@ -8,4 +8,4 @@ A short description about me
 4. time to complete (approx. 3 hours , 25/04/2023) 
 5. project is hosted at there [profile][def]
 
-[def]: prakush.netlify.com
+[def]: https://prakush.netlify.app/
